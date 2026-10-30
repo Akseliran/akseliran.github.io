@@ -1,0 +1,9 @@
+body{
+    font-size: 1.2rem;
+    font-family: "Nunito", sans-serif;
+}
+img{
+    padding: 3rem;
+    width: 40rem;
+    height: auto;
+}
