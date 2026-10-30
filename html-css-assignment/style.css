@@ -92,13 +92,12 @@ figure {
 
 .CompanyXpic{
   display: block;
-  margin: 1rem;
-  width: 40%;
+  margin: auto;
+  width: 20rem;
 }
 
 .page{
     h1{
         margin-left: 4rem;
-        margin-bottom: -2rem;
     }
 }
